@@ -4,4 +4,4 @@ n=int(input("Enter the lenght of array"))
 for i in range(n):
     x=int(input("Enter the value"))
     arr.append(x)
-print(arr)
+print(arr)0
